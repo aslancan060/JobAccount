@@ -1,9 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aslan Can
-==================================================================================================================================
+======================================================================
 
 Backend Developer
 
-==================================================================================================================================
+=====================================================================
 <br>
 I am a person who is willing to work as a cyber security, software development and information technology support specialist in all kinds of situations. I have projects that I have developed myself. I can show my GitHub reference when necessary. I have provided support to large companies regarding API and software.
 
